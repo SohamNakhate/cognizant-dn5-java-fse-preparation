@@ -6,13 +6,6 @@ The repository is organized week-wise and covers core Java, Spring Framework, Sp
 
 ---
 
-## Repository
-
-**GitHub:**  
-https://github.com/SohamNakhate/cognizant-dn5-java-fse-preparation
-
----
-
 # Learning Roadmap
 
 | Week | Module | Status |
@@ -20,7 +13,7 @@ https://github.com/SohamNakhate/cognizant-dn5-java-fse-preparation
 | Week 1 | Design Principles, Design Patterns & DSA | ✅ Completed |
 | Week 2 | PL/SQL & Test Driven Development (TDD) | ✅ Completed |
 | Week 3 | Spring Core, Maven & Spring Boot | ✅ Completed |
-| Week 4 | Spring Data JPA & Hibernate | ⏳ In Progress |
+| Week 4 | Spring Data JPA & Hibernate | ✅ Completed |
 | Week 5 | REST API & SonarQube | ⏳ Upcoming |
 | Week 6 | Microservices | ⏳ Upcoming |
 | Week 7 | React | ⏳ Upcoming |
@@ -120,6 +113,8 @@ cognizant-dn5-java-fse-preparation
 ├── Week-7-React
 │
 ├── Notes
+│
+├── Hands On
 │
 └── README.md
 ```
@@ -228,19 +223,3 @@ cognizant-dn5-java-fse-preparation
 | React | ⏳ |
 
 ---
-
-# About
-
-This repository serves as my personal knowledge base and implementation repository throughout the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (React)** program. Every module includes hands-on exercises, notes, and code implementations following Cognizant's training curriculum.
-
----
-
-## Author
-
-**Soham Nakhate**
-
-B.Tech Computer Science & Engineering
-
-Rajiv Gandhi College of Engineering & Research, Nagpur
-
-GitHub: https://github.com/SohamNakhate
